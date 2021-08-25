@@ -1667,7 +1667,7 @@ video{
 .card_top h2{
   position: relative;
   top:-40px;
-  left: 10px; 
+  left: 0px; 
 }
 .cards-list{
   margin-top: -20px;
