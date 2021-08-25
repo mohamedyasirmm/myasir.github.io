@@ -664,12 +664,7 @@ b, strong {
   left: 470px;
   top:650px;
 }
-.card_top h2{
-  margin-top:-120px;
-  
-}   
-
-  
+ 
 
 .modalBlur > *:not(.modal) {
   filter: blur(7px);
@@ -1158,7 +1153,7 @@ b, strong {
 }
 .card_top h2{
   position: relative;
-  top:40px;
+  margin-top:-80px;
   text-align: center;
   font-size: 20px;
 }
@@ -1404,7 +1399,7 @@ b, strong {
   }
   .card_top h2{
     position: relative;
-    top:-150px;
+    top:-90px;
     left: 10px;   
    
   } 
@@ -1654,7 +1649,7 @@ video{
 
 }
 .cards-list_pics {
-  margin-top: -130px;
+  margin-top: -80px;
 }
 
 .cards {
@@ -1671,7 +1666,7 @@ video{
 
 .card_top h2{
   position: relative;
-  top:-100px;
+  top:-40px;
   left: 10px; 
 }
 .cards-list{
@@ -2035,7 +2030,7 @@ video{
   
   }
   .cards-list_pics{
-    margin-top: 0px;
+    margin-top: 80px;
     margin-left:5px;
   }
   .cards {
@@ -2060,7 +2055,7 @@ video{
   }
   .card_top h2{
     position: relative;
-    top:40px;
+    top:120px;
     text-align: center;
     font-size: 20px;
     left:0px;
