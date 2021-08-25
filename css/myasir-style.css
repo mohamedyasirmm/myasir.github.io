@@ -664,12 +664,12 @@ b, strong {
   left: 470px;
   top:650px;
 }
+.card_top h2{
+  margin-top:-120px;
   
-  
-   
-    
-  
+}   
 
+  
 
 .modalBlur > *:not(.modal) {
   filter: blur(7px);
@@ -2094,18 +2094,4 @@ video{
   }
   
 
-  
-  
-  
-  
-  
-  
-  
-  
- 
-
- 
- 
-
- 
-}
+ }
