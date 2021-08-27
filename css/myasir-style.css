@@ -1161,7 +1161,7 @@ b, strong {
   margin-top: 0px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 991px) and (min-width: 767px) {
   .full-screen {
     padding-bottom: 4rem;
   }
