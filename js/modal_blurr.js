@@ -78,6 +78,17 @@
    $('.container').removeClass('modalBlur');
  })
 })();
+ $('#open-modal7').on('show.bs.modal', function (e) {
+   console.log('show');
+   $('.container').addClass('modalBlur');
+ })
+ 
+ //Remove modal
+ $('#open-modal7').on('hide.bs.modal', function (e) {
+    console.log('hide');
+   $('.container').removeClass('modalBlur');
+ })
+})();
 
  
  //based on from https://taitems.github.io/UX-Lab/ModalBlur/index.html
