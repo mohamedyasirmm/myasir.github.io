@@ -78,6 +78,8 @@
    $('.container').removeClass('modalBlur');
  })
 })();
+(function(){
+  //Show Modal
  $('#open-modal7').on('show.bs.modal', function (e) {
    console.log('show');
    $('.container').addClass('modalBlur');
