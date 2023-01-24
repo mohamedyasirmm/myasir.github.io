@@ -62,7 +62,11 @@ a {
 a:hover {
   color: #ffc200 !important;
 }
+.navbar-brand {
+  font-size: 20px;
+  margin-top: -18px;
 
+}
 .navbar-brand .uil {
   font-size: 40px;
 }
